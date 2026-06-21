@@ -1,0 +1,8 @@
+# Dépendances utilisées uniquement pour les tests, jamais en production.
+# On les sépare de requirements.txt pour que le serveur déployé n'installe
+# pas des outils de test dont il n'a pas besoin.
+#
+# Installation : .venv/bin/pip install -r requirements-dev.txt -r requirements.txt
+-r requirements.txt
+pytest==9.1.1
+httpx==0.28.1

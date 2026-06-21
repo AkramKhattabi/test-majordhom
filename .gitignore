@@ -1,0 +1,7 @@
+# Fichiers macOS / éditeur, non liés au projet lui-même.
+.DS_Store
+.claude/settings.local.json
+frontend/.claude/settings.local.json
+
+# Notes personnelles, pas du contenu du projet
+PREPARATION_ENTRETIEN.txt
