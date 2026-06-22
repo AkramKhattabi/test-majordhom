@@ -1,4 +1,4 @@
-# Test technique — Formulaire de contact agence immobilière
+# — Formulaire de contact agence immobilière
 
 Application web composée d'un formulaire de contact (coordonnées, type de
 demande, disponibilités) avec un frontend React et une API backend FastAPI
